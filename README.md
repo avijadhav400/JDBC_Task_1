@@ -30,10 +30,10 @@ The program loads the Oracle JDBC driver, establishes a connection, and prints *
 ---
 
 ## Project Structure
-src/
-└── OracleConnectionTest.java
-lib/
-└── ojdbc14.jar
+src/  
+└── OracleConnectionTest.java  
+lib/  
+└── ojdbc14.jar  
 
 
 ---
@@ -48,7 +48,6 @@ Update the database URL, username, and password inside the Java file.
 
 ### 3. Compile and Run
 
-#### Windows:
 
 ## Expected Output
 Connection Successful!
